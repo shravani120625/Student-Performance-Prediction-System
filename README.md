@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \#📊 Student Performance Prediction System (EdTech Analytics Platform)
 
 
@@ -350,3 +351,7 @@ If you like this project:
 
 
 
+=======
+# Student-Performance-Prediction-System
+AI-powered Student Performance Prediction System with FastAPI backend and Next.js dashboard for real-time academic risk analysis, insights, and data visualization using machine learning.
+>>>>>>> 853dc58bafcd615d42044000989abc50e2c7a328
