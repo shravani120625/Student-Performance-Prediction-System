@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pkl
+*.joblib
+
+# Virtual env
+venv/
+.env/
+
+# Model artifacts (optional if you regenerate)
+model/*.pkl
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
